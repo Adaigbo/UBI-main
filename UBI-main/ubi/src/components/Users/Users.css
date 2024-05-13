@@ -1,0 +1,9 @@
+.was-validated .form-check-input:valid:checked {
+    background-color: #6259ca;
+}
+.was-validated .form-check-input:valid {
+    border-color: #6259ca;
+}
+.was-validated .form-check-input:valid ~ .form-check-label {
+    color: inherit;
+}
